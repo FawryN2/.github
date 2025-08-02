@@ -84,4 +84,17 @@
   <img src="https://img.shields.io/badge/View%20in-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="View in Postman"/>
 </a>
 
+---
 
+## User service :
+
+
+<img width="818" height="776" alt="user_db" src="https://github.com/user-attachments/assets/bada8b25-fdb3-4a0c-884e-f6ce602d8113" />
+
+
+### Api documentaiton
+
+
+<a href="https://documenter.getpostman.com/view/40432232/2sB3BAMD1H">
+  <img src="https://img.shields.io/badge/View%20in-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="View in Postman"/>
+</a>
