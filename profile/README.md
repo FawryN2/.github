@@ -59,7 +59,13 @@
 --- 
 
 
+## Coupon service:
+## database :
+<img width="852" height="1032" alt="consumption_history" src="https://github.com/user-attachments/assets/5acfadcc-6c04-4c49-b426-3cfb85d3cab4" />
+
+### Api documentaiton
 
 
-
-
+<a href="https://documenter.getpostman.com/view/40432232/2sB3BAMCvy">
+  <img src="https://img.shields.io/badge/View%20in-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="View in Postman"/>
+</a>
