@@ -7,6 +7,7 @@
 
 ### Api documentaiton
 
-<a href="https://documenter.getpostman.com/view/40432232/2sB3BAMCvx">
- view in postman <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+
+- View in postman<a href="https://documenter.getpostman.com/view/40432232/2sB3BAMCvx">
+ <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 </a>
