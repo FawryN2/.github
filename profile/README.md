@@ -11,3 +11,20 @@
 <a href="https://documenter.getpostman.com/view/40432232/2sB3BAMCvx">
   <img src="https://img.shields.io/badge/View%20in-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="View in Postman"/>
 </a>
+---
+
+## Notifacation Service
+
+### Data base<img width="866" height="872" alt="notification_db" src="https://github.com/user-attachments/assets/36d4612a-3c2b-49df-aff1-889d49d6286a" />
+
+
+### Api documentaiton
+
+
+<a href="https://documenter.getpostman.com/view/40432232/2sB3BAMCvz">
+  <img src="https://img.shields.io/badge/View%20in-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="View in Postman"/>
+</a>
+
+---
+
+## prdocut 
